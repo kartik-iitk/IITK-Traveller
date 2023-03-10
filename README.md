@@ -16,4 +16,4 @@ As a fun aside, we developed a transpiler that converts any code written in [bra
 ```bash
 ./transpiler <path to brainfuck code>
 ```
-The equivalent IITK_Traveller code will be dumped to your terminal.
+The equivalent IITK_Traveller code will be dumped to new file output.iitktv.
